@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+        "spec": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:ccmtlittlestone/nodebb-plugin-usersettings.git",
+          "sshUrl": "git+ssh://git@github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+          "httpsUrl": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+          "gitUrl": "git://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+          "shortcut": "github:ccmtlittlestone/nodebb-plugin-usersettings.git",
+          "directUrl": "https://raw.githubusercontent.com/ccmtlittlestone/nodebb-plugin-usersettings.git"
+        }
+      },
+      "/home/lingxiao/data/web/nodebb_ccmt"
+    ]
+  ],
+  "_from": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+  "_id": "nodebb-plugin-usersettings@1.0.0",
+  "_inCache": true,
+  "_location": "/nodebb-plugin-usersettings",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+    "spec": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:ccmtlittlestone/nodebb-plugin-google-analytics.git#dev",
+      "sshUrl": "git+ssh://git@github.com/ccmtlittlestone/nodebb-plugin-google-analytics.git#dev",
+      "httpsUrl": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+      "gitUrl": "git://github.com/ccmtlittlestone/nodebb-plugin-google-analytics.git#dev",
+      "shortcut": "github:ccmtlittlestone/nodebb-plugin-google-analytics#dev",
+      "directUrl": "https://raw.githubusercontent.com/ccmtlittlestone/nodebb-plugin-usersettings/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+  "_shasum": "",
+  "_shrinkwrap": null,
+  "_spec": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+  "_where": "/home/lingxiao/data/web/nodebb_ccmt",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git"
+  },
+  "dependencies": {},
+  "description": ".",
+  "devDependencies": {},
+  "gitHead": "",
+  "homepage": "https://github.com/ccmtlittlestone/nodebb-plugin-usersettings#readme",
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "google",
+    "analyticss"
+  ],
+  "license": "MIT",
+  "main": "library.js",
+  "name": "nodebb-plugin-usersettings",
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  },
+  "optionalDependencies": {},
+  "readme": "..",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,23 @@
+{
+	"id": "nodebb-plugin-usersettings",
+	"url": "https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+	"library": "./library.js",
+	"hooks": [
+		{
+			"hook": "action:user.create", "method": "set"
+		},
+    {
+			"hook": "static:app.load", "method": "init"
+		},
+		{
+			"hook": "filter:admin.header.build", "method": "addAdminNavigation"
+		}
+	],
+	"staticDirs": {
+	},
+	"less": [],
+	"scripts": [
+	],
+	"acpScripts": [
+	]
+}
