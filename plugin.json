@@ -1,6 +1,6 @@
 {
-	"id": "nodebb-plugin-usersettings",
-	"url": "https://github.com/ccmtlittlestone/nodebb-plugin-usersettings.git",
+	"id": "nodebb-plugin-ccmtusersettings",
+	"url": "https://github.com/ccmtlittlestone/nodebb-plugin-ccmtusersettings.git",
 	"library": "./library.js",
 	"hooks": [
 		{
